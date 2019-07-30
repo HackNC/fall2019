@@ -1,5 +1,11 @@
 @import "components/palette";
 
+@font-face {
+    font-family: DellmonteSans;
+    src: url("/static/assets/dellmonte-sans.otf") format("opentype");
+}
+
+
 body {
     color: $f-color;
     background: $g-plum;
@@ -20,6 +26,18 @@ main {
     background: $g-plum;
 }
 
+.logo-text-container {
+    display: flex;
+    font-family: DellmonteSans;
+    font-size: 128px;
+    flex-grow: 1;
+    align-items: center;
+    padding-left: 50px;
+}
+
+.logo-text {
+}
+
 .dark {
     background: $g-plum;
 }
@@ -30,8 +48,9 @@ main {
 }
 
 .banner {
-    background-image: url('/static/assets/images/banner-cropped.png');
-      background-position: left top;
+    background-image: url('/static/assets/images/banner-2-cropped.png');
+      background-position: center;
+      background-size: cover;
   background-repeat: no-repeat;
     min-height: 100vh;
     display: flex;
