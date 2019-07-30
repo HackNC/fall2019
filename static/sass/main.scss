@@ -30,7 +30,17 @@ main {
 }
 
 .banner {
+    background-image: url('/static/assets/images/banner-cropped.png');
+      background-position: left top;
+  background-repeat: no-repeat;
     min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.transparent {
+    background-color: transparent;
 }
 
 .logo {
