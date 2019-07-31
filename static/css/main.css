@@ -66,6 +66,10 @@ main {
   .logo {
     max-width: 100%;
   }
+
+  .logo-text {
+    font-size: 48px;
+  }
 }
 .hacknc {
   margin-top: 0;
@@ -76,7 +80,7 @@ main {
   height: 60px;
   font-size: 1em;
   overflow: hidden;
-  background-color: #FAAA42;
+  background-color: brown;
   color: #004557;
   text-transform: none;
   font-weight: 200;
@@ -84,7 +88,7 @@ main {
 }
 
 .form-btn:hover {
-  background-color: #FAAA42;
+  background-color: darkorange;
   color: #fcece3;
 }
 
