@@ -211,7 +211,7 @@ nav ul a {
 
 .table-row-even {
   color: #004557;
-  background: #94cbcf;
+  background: #CEE5E7;
 }
 
 .sponsors {
@@ -258,7 +258,7 @@ nav ul a {
   }
 }
 .prizes .dark {
-  background: #94cbcf;
+  background: #CEE5E7;
 }
 
 @media only screen and (max-width: 600px) {
