@@ -29,6 +29,7 @@ main {
   flex-grow: 1;
   align-items: center;
   padding-left: 50px;
+  width: 100%;
 }
 
 .dark {
@@ -49,6 +50,7 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
+  align-items: center;
 }
 
 .transparent {
@@ -67,8 +69,10 @@ main {
     max-width: 100%;
   }
 
-  .logo-text {
+  .logo-text-container {
     font-size: 48px;
+    justify-content: center;
+    padding-left: 0px;
   }
 }
 .hacknc {
