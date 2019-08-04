@@ -25,12 +25,10 @@ main {
 .logo-text-container {
   display: flex;
   font-family: DellmonteSans;
-  font-size: 128px;
+  font-size: 15vh;
   flex-grow: 1;
-  align-items: center;
+  padding-top: 15vh;
   justify-content: center;
-  padding-left: 50px;
-  padding-bottom: 200px;
   width: 100%;
 }
 
@@ -44,7 +42,7 @@ main {
 }
 
 .logo-slogan {
-  font-size: 48px;
+  font-size: 5vh;
 }
 
 .dark {
@@ -89,18 +87,15 @@ main {
   }
 
   .logo-text-container {
-    font-size: 48px;
+    font-size: 12vw;
     justify-content: center;
     padding-left: 0px;
     padding-bottom: 0px;
-  }
-
-  .logo-text {
-    text-align: center;
+    padding-top: 25vh;
   }
 
   .logo-slogan {
-    font-size: 24px;
+    font-size: 5vw;
   }
 }
 .hacknc {
