@@ -78,14 +78,23 @@ main {
 }
 
 @media only screen and (max-width: 600px) {
-  .banner {
-    background-position: right 65% bottom 60%;
-  }
-
   .logo {
     max-width: 100%;
   }
 
+  .logo-text-container {
+    font-size: 12vw;
+    justify-content: center;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    padding-top: 25vh;
+  }
+
+  .logo-slogan {
+    font-size: 5vw;
+  }
+}
+@media (orientation: portrait) {
   .logo-text-container {
     font-size: 12vw;
     justify-content: center;
