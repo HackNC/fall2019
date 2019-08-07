@@ -219,7 +219,7 @@ nav ul a {
   background: #CEE5E7;
 }
 
-.sponsors {
+.sponsors, .description {
   background: white;
   color: #004557;
 }
