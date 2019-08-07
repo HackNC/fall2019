@@ -221,7 +221,7 @@ nav ul a {
 }
 
 .card-content {
-    color: $table-light;
+    color: $f-color;
 }
 
 .table-row-even {
@@ -271,10 +271,6 @@ nav ul a {
     .sponsor-row .col {
         float: none;
     }
-}
-
-.prizes .dark {
-    background: $table-dark;
 }
 
 @media only screen and (max-width: 600px) {

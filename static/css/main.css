@@ -211,7 +211,7 @@ nav ul a {
 }
 
 .card-content {
-  color: #004557;
+  color: #fcece3;
 }
 
 .table-row-even {
@@ -262,10 +262,6 @@ nav ul a {
     float: none;
   }
 }
-.prizes .dark {
-  background: #CEE5E7;
-}
-
 @media only screen and (max-width: 600px) {
   .prizes .col {
     width: 100%;
