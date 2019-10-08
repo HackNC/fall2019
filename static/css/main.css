@@ -104,16 +104,13 @@ main {
   background-color: darkorange; }
 
 .top-page-btn {
-  height: 15vh !important; }
+  height: 10vh !important; }
 
 @media only screen and (max-width: 1280px) {
   .form-btn, .form-btn:focus, .form-btn:hover {
     width: 60vw;
     min-height: 60px;
-    line-height: 1.5; }
-
-  .top-page-btn {
-    height: 10vh !important; } }
+    line-height: 1.5; } }
 .modal .form-btn {
   font-size: 1.5em; }
 
