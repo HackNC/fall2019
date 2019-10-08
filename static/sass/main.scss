@@ -248,6 +248,13 @@ nav ul a {
     max-width: 100%;
 }
 
+.valign-wrapper {
+    height: 187px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .tier-4 {
     max-width: 80%;
     min-width: 280px;
