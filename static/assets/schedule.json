@@ -58,14 +58,14 @@
                 "location": "Woolen Gym"
             },
             {
-                "time": "4:15 PM",
-                "event": "Mid-day Snack",
-                "location": "Woolen Gym"
-            },
-            {
                 "time": "12:30 PM",
                 "event": "Workshops/talks begin",
                 "location": "Woollen Gym"
+            },
+            {
+                "time": "4:15 PM",
+                "event": "Mid-day Snack",
+                "location": "Woolen Gym"
             },
             {
                 "time": "7:00 PM",
