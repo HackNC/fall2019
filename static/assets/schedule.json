@@ -53,12 +53,12 @@
                 "location": "-"
             },
             {
-                "time": "12:30 PM",
+                "time": "1:00 PM",
                 "event": "Lunch",
                 "location": "Woolen Gym"
             },
             {
-                "time": "12:30 PM",
+                "time": "2:00 PM",
                 "event": "Workshops/talks begin",
                 "location": "Woollen Gym"
             },
@@ -98,7 +98,7 @@
                 "location": "Woollen Gym"
             },
             {
-                "time": "1:00 PM",
+                "time": "12:30 PM",
                 "event": "Lunch",
                 "location": "Woollen Gym"
             },
