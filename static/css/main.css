@@ -102,7 +102,8 @@ main {
 
 .top-page-btn {
   height: 15vh !important;
-  width: 60vw; }
+  width: 60vw;
+  font-size: 1.2em; }
 
 .modal .form-btn {
   font-size: 1.5em; }
