@@ -241,6 +241,23 @@ nav ul a {
     @extend .dark;
 }
 
+.prizes .card {
+    height: 100%;
+}
+
+.prizes .row { 
+    display: -webkit-flex; 
+    display: -ms-flexbox; 
+    display: flex; 
+    overflow: hidden;
+}
+
+.prizes .row .col {
+    flex: 1; 
+    margin-right: 10px;
+    padding: 15px;
+}
+
 .sponsors, .description {
     background: $sponsor-bg;
     color: $dark-bg;
