@@ -20,9 +20,9 @@ $(document).ready(function(){
             $table.append(
                 $('<thead>').append(
                     $('<tr>')
-                      .append($('<th>', {"style": "width:25%;"}).text('Time'))
+                      .append($('<th>', {"style": "width:20%;"}).text('Time'))
                       .append($('<th>', {"style": "width:55%;"}).text('Event'))
-                      .append($('<th>', {'style': "width:20%;"}).text('Location'))
+                      .append($('<th>', {'style': "width:25%;"}).text('Location'))
                 )
             );
 

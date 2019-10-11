@@ -55,22 +55,62 @@
             {
                 "time": "1:00 PM",
                 "event": "Lunch",
-                "location": "Woolen Gym"
+                "location": "Woollen Gym"
             },
             {
                 "time": "2:00 PM",
-                "event": "Workshops/talks begin",
-                "location": "Woollen Gym"
+                "event": "Workshop: Modern Web Development with Angular by CapTech",
+                "location": "Room 304 @\nWoollen Gym"
+            },
+            {
+                "time": "2:00 PM",
+                "event": "Workshop: Backend Development in Python + How to Pitch Effectively",
+                "location": "Room 303 @\nWoollen Gym"
+            },
+            {
+                "time": "3:15 PM",
+                "event": "Workshop: Healthcare on the Cloud: Introduction to Microservices Architecture by Allscripts",
+                "location": "Room 304 @\nWoollen Gym"
+            },
+            {
+                "time": "3:15 PM",
+                "event": "Workshop: Ask the Tech Recruiter by Macedon Technologies",
+                "location": "Room 303 @\nWoollen Gym"
             },
             {
                 "time": "4:15 PM",
                 "event": "Mid-day Snack",
-                "location": "Woolen Gym"
+                "location": "Woollen Gym"
+            },
+            {
+                "time": "4:30 PM",
+                "event": "Workshop: Lambdas by Capital One",
+                "location": "Room 304 @\nWoollen Gym"
+            },
+            {
+                "time": "4:30 PM",
+                "event": "Workshop: Computer Science & Discovering Drugs",
+                "location": "Room 303 @\nWoollen Gym"
+            },
+            {
+                "time": "5:45 PM",
+                "event": "Workshop: Making Sense of Unstructured Text with Python and spaCy",
+                "location": "Room 304 @\nWoollen Gym"
+            },
+            {
+                "time": "5:45 PM",
+                "event": "Workshop: An Introduction to User Experience",
+                "location": "Room 303 @\nWoollen Gym"
             },
             {
                 "time": "7:00 PM",
                 "event": "Dinner",
                 "location": "Woollen Gym"
+            },
+            {
+                "time": "8:00 PM",
+                "event": "Women in Tech Panel",
+                "location": "Room 304 @\nWoollen Gym"
             },
             {
                 "time": "12:00 AM",

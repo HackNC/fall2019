@@ -8,8 +8,7 @@ body {
   font-size: 1em; }
 
 a {
-  color: #E85D24;
-  font-weight: bold; }
+  color: #E85D24; }
 
 .section {
   font-size: 1.3em; }
@@ -90,8 +89,6 @@ main {
   margin-top: 0; }
 
 .form-btn, .form-btn:focus {
-  width: 400px;
-  height: 60px;
   font-size: 1em;
   overflow: hidden;
   background-color: brown;
@@ -104,13 +101,9 @@ main {
   background-color: darkorange; }
 
 .top-page-btn {
-  height: 10vh !important; }
+  height: 15vh !important;
+  width: 60vw; }
 
-@media only screen and (max-width: 1280px) {
-  .form-btn, .form-btn:focus, .form-btn:hover {
-    width: 60vw;
-    min-height: 60px;
-    line-height: 1.5; } }
 .modal .form-btn {
   font-size: 1.5em; }
 
