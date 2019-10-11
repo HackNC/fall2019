@@ -170,6 +170,7 @@ body {
 @media only screen and (min-width: 600px) {    
     #floor-plans  {
         height: 100%;
+        width: 90%;
         overflow: hidden;
         
         .modal-content {
@@ -183,9 +184,9 @@ body {
     }
 
     .carousel-item {
-        top: -120px !important;
-        width: 40% !important;
-        height: 40% !important;
+        top: -140px !important;
+        width: 35% !important;
+        height: 35% !important;
     }   
 }
 
