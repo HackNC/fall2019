@@ -89,17 +89,17 @@
             },
             {
                 "time": "4:30 PM",
-                "event": "Workshop: Doing Chemistry with Machine Learning",
+                "event": "Workshop: Doing Chemistry with Machine Learning by Daniel Korn",
                 "location": "Room 303 @\nWoollen Gym"
             },
             {
                 "time": "5:45 PM",
-                "event": "Workshop: Making Sense of Unstructured Text with Python and spaCy",
+                "event": "Workshop: Making Sense of Unstructured Text with Python and spaCy by CoStar",
                 "location": "Room 304 @\nWoollen Gym"
             },
             {
                 "time": "5:45 PM",
-                "event": "Workshop: An Introduction to User Experience",
+                "event": "Workshop: An Introduction to User Experience by Credit Suisse",
                 "location": "Room 303 @\nWoollen Gym"
             },
             {
@@ -111,6 +111,16 @@
                 "time": "8:00 PM",
                 "event": "Women in Tech Panel",
                 "location": "Room 304 @\nWoollen Gym"
+            },
+            {
+                "time": "9:00 PM",
+                "event": "Boardgames",
+                "location": "Main gym @\nWoollen Gym"
+            },
+            {
+                "time": "10:00 PM",
+                "event": "Free Throw Challenge with Capital One ($50 prize)",
+                "location": "Main gym @\nWoollen Gym"
             },
             {
                 "time": "12:00 AM",
