@@ -89,12 +89,9 @@ main {
   margin-top: 0; }
 
 .form-btn, .form-btn:focus {
-  font-size: 1em;
   overflow: hidden;
   background-color: brown;
-  color: white;
   text-transform: none;
-  font-weight: 200;
   margin: 0.5em auto 1em auto; }
 
 .form-btn:hover {

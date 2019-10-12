@@ -16,6 +16,9 @@ body {
   color: #fcece3;
   font-size: 1.2em; }
 
+.form-btn {
+  color: #fcece3 !important; }
+
 .logo {
   height: 200px;
   margin: auto;
